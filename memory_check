@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#TRY TO INSERT COMMENT THROUGH GIT
 TOTAL_MEMORY=$(free | grep Mem | awk '{ print $2 }')
 
 #Initialize the value of used memory and free memory.
